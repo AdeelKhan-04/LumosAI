@@ -27,7 +27,7 @@ Visit the 👉 [_LINK 🔗_](https://lumos-ai-rho.vercel.app/)
 
 ## Overview
 
-QUICKAI is a comprehensive AI SaaS platform that provides:
+LumosAI is a comprehensive AI SaaS platform that provides:
 
 - 🎨 AI Image Generation and Editing
 - 📝 Intelligent Content Creation
@@ -99,7 +99,7 @@ Built with the PERN stack (PostgreSQL, Express, React, Node.js) and integrated w
 ## Architecture
 
 ```json
-QuickAI/
+LumosAI/
 ├── client/                 # React Frontend
 │   ├── src/
 │   │   ├── assets/        # Static assets
