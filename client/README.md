@@ -18,7 +18,7 @@ Lumos.ai is a modern AI SaaS platform built with React, Vite, and Tailwind CSS. 
 ### Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/
+   git clone https://github.com/notramm/LumosAI
    cd client
    ```
 2. Install dependencies:
