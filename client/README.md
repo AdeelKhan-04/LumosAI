@@ -1,4 +1,4 @@
-# at.ai
+# Lumos.ai
 
 Lumos.ai is a modern AI SaaS platform built with React, Vite, and Tailwind CSS. It features a beautiful UI, responsive design, and a suite of AI-powered tools including text generation, image generation, and more.
 
